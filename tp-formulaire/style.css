@@ -1,0 +1,14 @@
+h1{
+    font-size: 2rem;
+    text-decoration: underline;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 4rem;
+    text-align: center;
+    
+    
+}
+body{
+    background-color: rgb(190, 243, 243);
+    color: rgb(33, 10, 241);
+}
